@@ -1,0 +1,42 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background: #f4f4f9;
+    color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #6A0DAD;
+    margin-bottom: 20px;
+}
+
+.dados-usuario {
+    margin: 20px 0;
+    text-align: left;
+}
+
+.logout-btn {
+    background: #6A0DAD;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.logout-btn:hover {
+    background: #550a99;
+}
