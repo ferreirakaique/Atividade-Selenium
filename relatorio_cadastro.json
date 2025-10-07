@@ -1,0 +1,38 @@
+[
+  {
+    "teste": "Cadastro válido",
+    "status": "pass",
+    "mensagem": "Erro no cadastro",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Cadastro_vlido.png"
+  },
+  {
+    "teste": "E-mail já cadastrado",
+    "status": "pass",
+    "mensagem": "Erro no cadastro",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_E-mail_j_cadastrado.png"
+  },
+  {
+    "teste": "Campo nome vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Campo_nome_vazio.png"
+  },
+  {
+    "teste": "Campo email vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Campo_email_vazio.png"
+  },
+  {
+    "teste": "Campo senha vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Campo_senha_vazio.png"
+  },
+  {
+    "teste": "Tentativa de XSS",
+    "status": "pass",
+    "mensagem": "Erro no cadastro",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Tentativa_de_XSS.png"
+  }
+]

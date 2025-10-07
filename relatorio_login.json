@@ -1,0 +1,32 @@
+[
+  {
+    "teste": "Login correto",
+    "status": "pass",
+    "mensagem": "Sucesso!",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Login_correto.png"
+  },
+  {
+    "teste": "Senha incorreta",
+    "status": "pass",
+    "mensagem": "Senha incorreta!",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Senha_incorreta.png"
+  },
+  {
+    "teste": "Campo email vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Campo_email_vazio.png"
+  },
+  {
+    "teste": "Campo senha vazio",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Campo_senha_vazio.png"
+  },
+  {
+    "teste": "Tentativa de XSS",
+    "status": "pass",
+    "mensagem": "",
+    "screenshot": "C:\\xampp\\htdocs\\ATIVIDADE SELENIUM\\assets\\screenshots\\screenshot_Tentativa_de_XSS.png"
+  }
+]
